@@ -1,0 +1,3 @@
+# Module stephenkidson
+# RPC service class, partial path of RPC policy file
+com.skidson.client.GreetingService, 36BD5E7ECC3EEC6FF2F269825EAA40EA.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: com.skidson.client.GreetingService
+path: 36BD5E7ECC3EEC6FF2F269825EAA40EA.gwt.rpc
