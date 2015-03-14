@@ -1,0 +1,1 @@
+Aggregates various photo-centric web apps to provide a single place to organize albums that can be shared with anyone.
